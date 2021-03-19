@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="permission_rationale">This App needs location permission</string>
+    <string name="ok">OK</string>
+    <string name="location_updated">"Location  updated: %1$s"</string>
+</resources>
